@@ -47,6 +47,12 @@ code {
   flex-direction: column;
 }
 
+
+.small-image {
+  width: 115px; /* Adjust the width as needed */
+  height: auto; /* Let the height adjust proportionally */
+}
+
 .container-children.horizontal {
   flex-direction: row;
 }
